@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="center">
+    <h2><span id="c1">Leonardo da Vinci</span></h2>
+    <img src="leonardo.png" alt="" height="400" width="300">
+    <p> <span class="c2">LEONARDO DI SER PIERO DA VINCI</span> (Bu ses hakkında telaffuz (yardım-bilgi))(15 Nisan 1452 - 2 Mayıs 1519). Rönesans döneminde yaşamış İtalyan hezarfen, döneminin önemli bir filozofu astronomu mimarı mühendisi mucidi matematikçisi anatomisti müzisyeni heykeltaraşı botanisti jeologu kartoqrafı yazarı ve ressamıdır. En tanınmış yapıtları <span class="c3">Vitruvius Adamı</span> (1490-1492) <span class="c3"> Mona Lisa</span> (1503-1507) ve <span class="c3">Son Akşamı Yemeği</span>'dir (1495-1497). Rönesans sanatını doruğuna ulaştırmış yalnız sanat yapısına değil çeşitli alanlardaki araştırmaları ve buluşlarıyla da tanınan dünyanın gelmiş geçmiş en büyük sanatçılarından ve dehalarından biri kabul edilmektedir. </p>
+    <img src="son akşam yemeği.png" alt="" width="500">
+    <h2 span id="c4"></span>SON AKŞAM YEMEĞİ</h1>
+    <p><span class="c2">SON AKŞAM YEMEĞİ YA DA SON YEMEK</span> [İngilizce: The Last Supper (Dı Lest Sapır) İyalyanca Il Cenacolo (İl Çenakolo) ya da L'Ultima Cena (Lultima Çena)] Hristiyan inaniışına göre İsanın çarmıha gerilmesinden önceki akşam havarileriyle yediği son yemek. Bu yemek sırasında yaptığı konuşmanın uzuznca anlatıldığı Yuhanna Kitabında İsa Mesih onlara kendisi aralarından ayrıldıktan sonra gelecek olan Paraklitle teselli bulmalarını söyler. <span id="c5">Son Akşam Yemeğinde İsa Ve Havarileri Kutsal Kaseden Şarap içiyorlar Ve Ekmek Yiyorlardı.</span></p>
+    </div>  
+</body>
+</html>
